@@ -132,4 +132,3 @@ See the [LICENSE](LICENSE) file for full details.
 
 ---
 
-If you like, I can **add screenshots or code‑examples cards** inside the README to make it even more appealing. Would you like me to add those?
